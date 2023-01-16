@@ -9,7 +9,6 @@
 
 ## Author
 
-Website - [Add your name here](https://www.your-site.com)
-
+- Author - [Touhidul Islam Alif]([https://www.your-site.com](https://touhidul-islam-alif.netlify.app/))
 - Github - [githubprofile](https://github.com/towhidulislamalif)
 - LinkedIn - [linkedinprofile](https://www.linkedin.com/in/towhidul-islam-003614165/)
