@@ -5,7 +5,7 @@
 
 ### Links
 - Solution URL: [Solution URL here](https://github.com/towhidulislamalif/clipboard-landing-page)
-- Live Site URL: [Live site URL here](https://product-preview-card-solutionn.netlify.app/)
+- Live Site URL: [Live site URL here](https://clipboard-landingg-page.netlify.app/)
 
 ## Author
 - Github - [github](https://github.com/towhidulislamalif)
