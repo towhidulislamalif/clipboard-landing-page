@@ -8,5 +8,5 @@
 - Live Site URL: [Live site URL here](https://product-preview-card-solutionn.netlify.app/)
 
 ## Author
-- Github - [github]([https://github.com/towhidulislamalif](https://github.com/towhidulislamalif))
+- Github - [github]([https://github.com/towhidulislamalif])
 - LinkedIn - [linkedin](https://www.linkedin.com/in/towhidul-islam-003614165/)
