@@ -9,4 +9,4 @@
 
 ## Author
 - Github - [github](https://github.com/towhidulislamalif)
-- LinkedIn - [linkedin](https://www.linkedin.com/in/towhidul-islam-003614165/)
+- LinkedIn - [linkedin](https://www.linkedin.com/in/touhidul-islam-alif/)
