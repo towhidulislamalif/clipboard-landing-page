@@ -4,7 +4,7 @@
 ## Welcome! 👋
 
 ### Links
-- Solution URL: [Solution URL here](https://github.com/towhidulislamalif/product-preview-card-component-main)
+- Solution URL: [Solution URL here](https://github.com/towhidulislamalif/clipboard-landing-page)
 - Live Site URL: [Live site URL here](https://product-preview-card-solutionn.netlify.app/)
 
 ## Author
