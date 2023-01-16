@@ -1,0 +1,120 @@
+:root {
+  --strong-cyan: hsl(171, 66%, 44%);
+  --light-blue: hsl(233, 100%, 69%);
+  --dark-grayish-blue: hsl(210, 10%, 33%);
+  --grayish-blue: hsl(201, 11%, 66%);
+  --footer-light-grayish-blue: hsl(180, 4%, 94%);
+}
+/* reset styles */
+* {
+  box-sizing: border-box;
+}
+/* global styles */
+html,
+body {
+  color: var(--dark-grayish-blue);
+  font-family: 'Bai Jamjuree', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+a {
+  color: var(--dark-grayish-blue);
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+li {
+  list-style: none;
+}
+p {
+  color: var(--grayish-blue);
+  line-height: 1.5;
+}
+/* styles */
+header {
+  background-image: url(./images/bg-header-desktop.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 5rem 0 1.25rem;
+}
+section {
+  padding: 1.875rem 0;
+}
+.container {
+  margin: 1.875rem auto;
+  max-width: 100%;
+  padding: 0 1.25rem;
+  width: 1200px;
+}
+.container_small {
+  width: 768px;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.flex > * {
+  flex: 1;
+  padding: 0.625rem;
+}
+.btn {
+  border: none;
+  border-radius: 3.125rem;
+  color: #fff;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0.9375rem 0.3125rem;
+  padding: 0.9375rem 2.1875rem;
+}
+.btn_primary {
+  background-color: var(--strong-cyan);
+}
+.btn_secondary {
+  background-color: var(--light-blue);
+}
+.margin {
+  margin: 7rem auto;
+}
+footer {
+  background-color: var(--footer-light-grayish-blue);
+}
+footer .container {
+  margin-bottom: 0;
+}
+footer ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+}
+footer .links {
+  flex: 3;
+}
+footer .links li {
+  margin-right: 2.5rem;
+  padding: 0.625rem;
+}
+footer .social li {
+  margin-right: 0 0.3125rem;
+}
+footer .social li a {
+  font-size: 1.25rem;
+  margin-right: 1.25rem;
+}
+
+/* media query */
+@media (max-width: 768px) {
+  .flex {
+    flex-direction: column;
+  }
+  footer .links {
+    flex-direction: column;
+  }
+  footer .links li {
+    margin-right: 0;
+    padding: 0.625rem;
+  }
+}
